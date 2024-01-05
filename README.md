@@ -1,6 +1,10 @@
 # 今治市ごみ収集日のカレンダー
 
+令和5年度今治市ごみ収集日一覧表
 https://www.city.imabari.ehime.jp/recycle/calendar/R05/R5.pdf
+
+各地域はこちらで確認ください
+https://www.city.imabari.ehime.jp/recycle/calendar/sakuin.pdf
 
 以下の地区を除く
 
